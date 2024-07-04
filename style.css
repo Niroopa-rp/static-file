@@ -1,0 +1,44 @@
+.form{
+   min-height: 100vh;
+   display: grid;
+   align-items: center;
+   background-color:lightgreen;
+   border: solid black;
+   padding-left: 2cm;
+   padding-right: 4cm;
+   margin: auto;
+   border: solid black;
+   
+}
+
+form{
+    width: 80%;
+    margin: 0 auto;
+    
+
+}
+.button{
+    display: flex;
+    padding-bottom: 1cm;
+    padding-top: 10px;
+}
+.can{
+    margin-left: 17cm;
+    
+}
+.sub{
+    
+    background-color: goldenrod;
+}
+.head{
+    text-align: center;
+}
+.sub:hover{
+    background-color: green;
+}
+.can{
+    background-color: red;
+}
+input:focus{
+    background-color:lightgrey;
+}
